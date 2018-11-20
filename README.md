@@ -1,5 +1,6 @@
 # javaCrawler
 现在用Python做爬虫很是盛行，在学Java的本人寻思着Java如何做爬虫。
+csdn页面：https://blog.csdn.net/A_Chuan49/article/details/83317509
 
 本爬虫例子为体育彩票网[http://www.sporttery.cn/](http://www.sporttery.cn/)
 ![在这里插入图片描述](https://img-blog.csdn.net/20181023232846997?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FfQ2h1YW40OQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
@@ -8,7 +9,6 @@
  
 
 本例实现对“足球赛果开奖”的爬取；若要对体育彩票站其他页面爬取，稍微修改代码中URL规则即可；若要爬取非体彩网的其他网站，则需要重新分析其站结构，修改其爬取方式。
-
 
 ![在这里插入图片描述](https://img-blog.csdn.net/20181023232944199?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FfQ2h1YW40OQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 **进入正题**，编译器为intellij IDEA,大略分析工程构成，上图为其结构：
